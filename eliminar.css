@@ -1,0 +1,47 @@
+.head{
+    text-align: center;
+    background-color: #3498DB;
+    color: white;
+    padding: 5px;
+}
+.contenido{
+    margin: 100px;
+    text-align: center;    
+}
+.contenido label{
+    font-size: x-large;
+    font-family: sans-serif;
+    vertical-align: top;
+    
+    
+}
+.contenido input{
+    width: 400px;
+    padding: 13px;
+    border-radius: 10px;
+    
+}
+
+.contenido button{
+    background-color: #3498DB;
+    width: 200px;
+    height: 50px;
+    margin: 15px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    font-size: medium;
+    
+}
+    
+.contenido  textarea{
+    padding: 8px;
+    border-radius: 10px;
+    resize: none;   
+}
+.foo{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 15px; 
+}
